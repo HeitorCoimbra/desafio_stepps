@@ -1,0 +1,3 @@
+[submodule "Desafio Opcional/yolov7"]
+	path = Desafio Opcional/yolov7
+	url = https://github.com/HeitorCoimbra/yolov7.git
