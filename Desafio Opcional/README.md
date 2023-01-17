@@ -13,6 +13,10 @@ De longe, a versão que utiliza SORT funciona muito melhor do que a versão de f
 
 Não utilizei a informação da linha amarela, nem os timestamps informados no desafio. Isso se deu por falta de tempo, dado que durante os primeiros 6 dias do desafio eu estava fora de casa e implementei o código todo no Google Colab.
 
-## Execução
+### Execução
 
 Para rodar o código, basta rodar o arquivo tracking.py para rodar a contagem simples e o arquivo detect_or_track.py para rodar a detecção com SORT de acordo com os parametros necessarios.
+
+### Vídeos de contagem
+
+Os vídeos não couberam no git, portanto se encontram aqui : https://drive.google.com/drive/folders/1MXRMMAw1oZPKOXUiayVPLmAnCNpaNnWi?usp=sharing
